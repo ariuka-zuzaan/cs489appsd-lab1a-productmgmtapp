@@ -1,0 +1,28 @@
+{
+  "name": "cs489appsd-lab1a-productmgmtapp",
+  "version": "1.0.0",
+  "description": "Products Management system - CLI App",
+  "main": "index.js",
+  "devDependencies": {
+    "tsx": "^4.19.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsx productMgmtApp.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariuka-zuzaan/cs489appsd-lab1a-productmgmtapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariuka-zuzaan/cs489appsd-lab1a-productmgmtapp/issues"
+  },
+  "homepage": "https://github.com/ariuka-zuzaan/cs489appsd-lab1a-productmgmtapp#readme",
+  "dependencies": {
+    "typescript": "^5.8.2",
+    "xml-formatter": "^3.6.5"
+  }
+}
